@@ -29,4 +29,4 @@ void print_dorm_detail(struct dorm_t *_dorm, int count){
             printf("%s|%d|female|%d\n", _dorm[i].name, _dorm[i].capacity, _dorm[i].residents_num);
         }
     }   
-}
+} 

@@ -150,5 +150,5 @@ int main(int _argc, char **_argv){
     } while (true);
     free(students);
     free(dorms);
-    return 0;
+    return 0; 
 }
